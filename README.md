@@ -19,3 +19,5 @@ Review: IOMMU: supported Under the Chipset tab
 
 Graphics Configuration: Primary Display: IGFX
 ![image](https://github.com/user-attachments/assets/3ebc4574-080c-439d-aeec-6ca1344a145c)
+
+It's now required to switch the HDMI physical input to the second port (on the bottom) in order to retain any physical video output
