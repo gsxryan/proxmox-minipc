@@ -50,3 +50,10 @@ Graphics Configuration: Primary Display: IGFX
 ![image](https://github.com/user-attachments/assets/3ebc4574-080c-439d-aeec-6ca1344a145c)
 
 It's now required to switch the HDMI physical input to the second port (on the bottom) in order to retain any physical video output
+
+Disable ME firmware:
+![image](https://github.com/user-attachments/assets/be7772c6-f45e-4569-9f7e-89caf982e8c9)
+
+Restore Power on AC loss:
+![image](https://github.com/user-attachments/assets/3295f11f-7c5f-43eb-97e2-9d30f5c305f6)
+
